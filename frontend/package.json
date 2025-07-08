@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "typescript": "^4.8.4",
-    "vite": "^3.2.1",
+    "vite": "^7.0.3",
     "yfiles": "file:../../yfiles-25.0.2+eval.tgz"
   }
 }
